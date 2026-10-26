@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300">
+  <rect width="640" height="300" fill="#eeede6"/>
+  <g fill="none" stroke="#b2b0a4" stroke-width="2">
+    <path d="M240 150H330V90H390M330 150V210H390"/>
+  </g>
+  <rect x="50" y="102" width="190" height="96" rx="4" fill="#faf9f6" stroke="#78766a"/>
+  <rect x="50" y="102" width="5" height="96" fill="#a44813"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="75" y="138" font-size="13" fill="#625e54">PROJECT</text>
+    <text x="75" y="172" font-size="26" fill="#272723">prj-001</text>
+    <rect x="390" y="48" width="195" height="84" rx="4" fill="#faf9f6" stroke="#78766a"/>
+    <text x="414" y="84" font-size="20" fill="#272723">HWSet1</text>
+    <text x="414" y="109" font-size="13" fill="#625e54">Check in / Check out</text>
+    <rect x="390" y="168" width="195" height="84" rx="4" fill="#faf9f6" stroke="#78766a"/>
+    <text x="414" y="204" font-size="20" fill="#272723">HWSet2</text>
+    <text x="414" y="229" font-size="13" fill="#625e54">Check in / Check out</text>
+  </g>
+  <circle cx="330" cy="150" r="5" fill="#a44813"/>
+</svg>
